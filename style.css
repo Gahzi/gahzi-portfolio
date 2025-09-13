@@ -157,3 +157,11 @@ a {
     font-size: 1.2rem;
     margin-bottom: 1rem;
 }
+
+/* Tagline and meta info on project pages */
+.project-tagline {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 1rem;
+    font-style: italic;
+}
